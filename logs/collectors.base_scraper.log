@@ -29,3 +29,6 @@
 2025-12-16 19:26:08 - collectors.base_scraper - INFO - logger.py:121 - Initialized HackerNewsScraper scraper
 2025-12-16 19:27:39 - collectors.base_scraper - INFO - logger.py:121 - Initialized HackerNewsScraper scraper
 2025-12-16 19:28:33 - collectors.base_scraper - INFO - logger.py:121 - Initialized HackerNewsScraper scraper
+2025-12-16 21:43:26 - collectors.base_scraper - INFO - logger.py:121 - Initialized GenericScraper scraper
+2025-12-16 21:44:03 - collectors.base_scraper - INFO - logger.py:121 - Initialized GenericScraper scraper
+2025-12-16 21:47:45 - collectors.base_scraper - INFO - logger.py:121 - Initialized GenericScraper scraper

@@ -113,6 +113,13 @@ def parse_arguments():
         help="Minimum score threshold (0-100)"
     )
     
+    parser.add_argument(
+        "--url",
+        type=str,
+        default=None,
+        help="Specific URL to scrape (Generic Mode). Ignores --sources."
+    )
+    
     return parser.parse_args()
 
 
@@ -127,54 +134,68 @@ def main():
     logger.info("=" * 70)
     logger.info("OpenLead Intelligence - B2B Lead Intelligence Framework")
     logger.info("=" * 70)
-    logger.info(f"Sources: {args.sources}")
-    logger.info(f"Max companies per source: {args.max_companies}")
+    
+    if args.url:
+        logger.info(f"MODE: Generic URL Scraping")
+        logger.info(f"Target URL: {args.url}")
+    else:
+        logger.info(f"Sources: {args.sources}")
+        logger.info(f"Max companies per source: {args.max_companies}")
+        
     logger.info(f"Enrichment: {args.enable_enrichment}")
     logger.info(f"Scoring: {args.enable_scoring}")
     logger.info(f"Output format: {args.output_format}")
     logger.info("=" * 70)
     
-    # Initialize scrapers based on selected sources
+    # Initialize scrapers
     scrapers = []
     scraper_configs = []
     
-    sources = args.sources
-    if "all" in sources:
-        sources = ["product_hunt", "angellist", "clutch", "crunchbase"]
+    if args.url:
+        # Use Generic Scraper
+        from collectors.generic import GenericScraper
+        scrapers.append(GenericScraper())
+        scraper_configs.append({"url": args.url})
     
-    if "product_hunt" in sources:
-        # NOTE: Using Hacker News logic for reliable demo data as PH has high blocking
-        logger.info("Initializing Hacker News Scraper (Reliable Demo Source)")
-        from collectors.job_boards import HackerNewsScraper
-        scrapers.append(HackerNewsScraper())
-        scraper_configs.append({})
+    else:
+        # Use standard source selection (existing logic)
+        sources = args.sources
+        if "all" in sources:
+            sources = ["product_hunt", "angellist", "clutch", "crunchbase"]
         
-    # if "product_hunt" in sources: ... (Old logic commented out or removed for demo)
-    
-    if "angellist" in sources:
-        logger.info("Initializing AngelList scraper")
-        scrapers.append(AngelListScraper())
-        scraper_configs.append({
-            "location": args.location,
-            "max_companies": args.max_companies
-        })
+        if "product_hunt" in sources:
+            # NOTE: Using Hacker News logic for reliable demo data as PH has high blocking
+            logger.info("Initializing Hacker News Scraper (Reliable Demo Source)")
+            from collectors.job_boards import HackerNewsScraper
+            scrapers.append(HackerNewsScraper())
+            scraper_configs.append({})
+            
+        # if "product_hunt" in sources: ... (Old logic commented out or removed for demo)
+        
+        if "angellist" in sources:
+            logger.info("Initializing AngelList scraper")
+            scrapers.append(AngelListScraper())
+            scraper_configs.append({
+                "location": args.location,
+                "max_companies": args.max_companies
+            })
 
-    if "clutch" in sources:
-        logger.info("Initializing Clutch scraper")
-        from collectors.clutch import ClutchScraper
-        scrapers.append(ClutchScraper())
-        scraper_configs.append({
-            "category": "web-developers", # Default category
-            "max_pages": 1
-        })
+        if "clutch" in sources:
+            logger.info("Initializing Clutch scraper")
+            from collectors.clutch import ClutchScraper
+            scrapers.append(ClutchScraper())
+            scraper_configs.append({
+                "category": "web-developers", # Default category
+                "max_pages": 1
+            })
 
-    if "crunchbase" in sources:
-        logger.info("Initializing Crunchbase scraper")
-        from collectors.crunchbase import CrunchbaseScraper
-        scrapers.append(CrunchbaseScraper())
-        scraper_configs.append({
-            "max_companies": args.max_companies
-        })
+        if "crunchbase" in sources:
+            logger.info("Initializing Crunchbase scraper")
+            from collectors.crunchbase import CrunchbaseScraper
+            scrapers.append(CrunchbaseScraper())
+            scraper_configs.append({
+                "max_companies": args.max_companies
+            })
     
     # Initialize enrichers
     enrichers = []

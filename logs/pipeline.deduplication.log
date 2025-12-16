@@ -1,0 +1,3 @@
+2025-12-16 21:47:49 - pipeline.deduplication - INFO - logger.py:121 - Initialized CompanyDeduplicator (threshold=0.85)
+2025-12-16 21:47:49 - pipeline.deduplication - INFO - logger.py:121 - Deduplicating 15 companies
+2025-12-16 21:47:49 - pipeline.deduplication - INFO - logger.py:121 - Deduplication complete: 1/15 unique companies (14 duplicates removed)

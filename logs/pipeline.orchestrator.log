@@ -55,3 +55,29 @@
 2025-12-16 19:28:59 - pipeline.orchestrator - ERROR - logger.py:129 - HackerNewsScraper failed: ["'HackerNewsScraper' object has no attribute '_parse_item'"]
 2025-12-16 19:28:59 - pipeline.orchestrator - INFO - logger.py:121 - Scraped 0 total companies
 2025-12-16 19:28:59 - pipeline.orchestrator - WARNING - logger.py:125 - No companies scraped. Exiting pipeline.
+2025-12-16 21:44:03 - pipeline.orchestrator - INFO - logger.py:121 - Initialized PipelineOrchestrator (enrichment=True, scoring=True, dedup=True)
+2025-12-16 21:44:03 - pipeline.orchestrator - INFO - logger.py:121 - ============================================================
+2025-12-16 21:44:03 - pipeline.orchestrator - INFO - logger.py:121 - Starting Pipeline Execution
+2025-12-16 21:44:03 - pipeline.orchestrator - INFO - logger.py:121 - ============================================================
+2025-12-16 21:44:03 - pipeline.orchestrator - INFO - logger.py:121 - Step 1: Scraping from 1 sources
+2025-12-16 21:44:07 - pipeline.orchestrator - INFO - logger.py:121 - GenericScraper: 0 companies in 3.80s
+2025-12-16 21:44:07 - pipeline.orchestrator - INFO - logger.py:121 - Scraped 0 total companies
+2025-12-16 21:44:07 - pipeline.orchestrator - WARNING - logger.py:125 - No companies scraped. Exiting pipeline.
+2025-12-16 21:47:45 - pipeline.orchestrator - INFO - logger.py:121 - Initialized PipelineOrchestrator (enrichment=True, scoring=True, dedup=True)
+2025-12-16 21:47:45 - pipeline.orchestrator - INFO - logger.py:121 - ============================================================
+2025-12-16 21:47:45 - pipeline.orchestrator - INFO - logger.py:121 - Starting Pipeline Execution
+2025-12-16 21:47:45 - pipeline.orchestrator - INFO - logger.py:121 - ============================================================
+2025-12-16 21:47:45 - pipeline.orchestrator - INFO - logger.py:121 - Step 1: Scraping from 1 sources
+2025-12-16 21:47:49 - pipeline.orchestrator - INFO - logger.py:121 - GenericScraper: 15 companies in 3.65s
+2025-12-16 21:47:49 - pipeline.orchestrator - INFO - logger.py:121 - Scraped 15 total companies
+2025-12-16 21:47:49 - pipeline.orchestrator - INFO - logger.py:121 - Step 2: Deduplicating companies
+2025-12-16 21:47:49 - pipeline.orchestrator - INFO - logger.py:121 - After deduplication: 1 companies
+2025-12-16 21:47:49 - pipeline.orchestrator - INFO - logger.py:121 - Step 3: Enriching with 1 enrichers
+2025-12-16 21:47:49 - pipeline.orchestrator - INFO - logger.py:121 - Enriching with TechStackDetector
+2025-12-16 21:47:51 - pipeline.orchestrator - INFO - logger.py:121 - Enrichment completed
+2025-12-16 21:47:51 - pipeline.orchestrator - INFO - logger.py:121 - Step 4: Scoring companies
+2025-12-16 21:47:51 - pipeline.orchestrator - INFO - logger.py:121 - Scoring completed
+2025-12-16 21:47:51 - pipeline.orchestrator - INFO - logger.py:121 - ============================================================
+2025-12-16 21:47:51 - pipeline.orchestrator - INFO - logger.py:121 - Pipeline completed in 5.75s
+2025-12-16 21:47:51 - pipeline.orchestrator - INFO - logger.py:121 - Final result: 1 companies
+2025-12-16 21:47:51 - pipeline.orchestrator - INFO - logger.py:121 - ============================================================

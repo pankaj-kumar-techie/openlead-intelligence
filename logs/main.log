@@ -100,3 +100,56 @@
 2025-12-16 19:28:33 - main - INFO - logger.py:121 - Initializing enrichers
 2025-12-16 19:28:33 - main - INFO - logger.py:121 - Initializing lead scorer
 2025-12-16 19:28:59 - main - WARNING - logger.py:125 - No companies found. Exiting.
+2025-12-16 21:43:26 - main - INFO - logger.py:121 - ======================================================================
+2025-12-16 21:43:26 - main - INFO - logger.py:121 - OpenLead Intelligence - B2B Lead Intelligence Framework
+2025-12-16 21:43:26 - main - INFO - logger.py:121 - ======================================================================
+2025-12-16 21:43:26 - main - INFO - logger.py:121 - MODE: Generic URL Scraping
+2025-12-16 21:43:26 - main - INFO - logger.py:121 - Target URL: https://news.ycombinator.com/show
+2025-12-16 21:43:26 - main - INFO - logger.py:121 - Enrichment: True
+2025-12-16 21:43:26 - main - INFO - logger.py:121 - Scoring: True
+2025-12-16 21:43:26 - main - INFO - logger.py:121 - Output format: excel
+2025-12-16 21:43:26 - main - INFO - logger.py:121 - ======================================================================
+2025-12-16 21:44:03 - main - INFO - logger.py:121 - ======================================================================
+2025-12-16 21:44:03 - main - INFO - logger.py:121 - OpenLead Intelligence - B2B Lead Intelligence Framework
+2025-12-16 21:44:03 - main - INFO - logger.py:121 - ======================================================================
+2025-12-16 21:44:03 - main - INFO - logger.py:121 - MODE: Generic URL Scraping
+2025-12-16 21:44:03 - main - INFO - logger.py:121 - Target URL: https://news.ycombinator.com/show
+2025-12-16 21:44:03 - main - INFO - logger.py:121 - Enrichment: True
+2025-12-16 21:44:03 - main - INFO - logger.py:121 - Scoring: True
+2025-12-16 21:44:03 - main - INFO - logger.py:121 - Output format: excel
+2025-12-16 21:44:03 - main - INFO - logger.py:121 - ======================================================================
+2025-12-16 21:44:03 - main - INFO - logger.py:121 - Initializing enrichers
+2025-12-16 21:44:03 - main - INFO - logger.py:121 - Initializing lead scorer
+2025-12-16 21:44:07 - main - WARNING - logger.py:125 - No companies found. Exiting.
+2025-12-16 21:47:45 - main - INFO - logger.py:121 - ======================================================================
+2025-12-16 21:47:45 - main - INFO - logger.py:121 - OpenLead Intelligence - B2B Lead Intelligence Framework
+2025-12-16 21:47:45 - main - INFO - logger.py:121 - ======================================================================
+2025-12-16 21:47:45 - main - INFO - logger.py:121 - MODE: Generic URL Scraping
+2025-12-16 21:47:45 - main - INFO - logger.py:121 - Target URL: https://news.ycombinator.com/show
+2025-12-16 21:47:45 - main - INFO - logger.py:121 - Enrichment: True
+2025-12-16 21:47:45 - main - INFO - logger.py:121 - Scoring: True
+2025-12-16 21:47:45 - main - INFO - logger.py:121 - Output format: excel
+2025-12-16 21:47:45 - main - INFO - logger.py:121 - ======================================================================
+2025-12-16 21:47:45 - main - INFO - logger.py:121 - Initializing enrichers
+2025-12-16 21:47:45 - main - INFO - logger.py:121 - Initializing lead scorer
+2025-12-16 21:47:51 - main - INFO - logger.py:121 - 
+Pipeline completed successfully!
+2025-12-16 21:47:51 - main - INFO - logger.py:121 - Total companies: 1
+2025-12-16 21:47:51 - main - INFO - logger.py:121 - High priority: 0
+2025-12-16 21:47:51 - main - INFO - logger.py:121 - Medium priority: 0
+2025-12-16 21:47:51 - main - INFO - logger.py:121 - Low priority: 1
+2025-12-16 21:47:51 - main - INFO - logger.py:121 - Exported to EXCEL: output\generic_run_SUCCESS.xlsx
+2025-12-16 21:47:51 - main - INFO - logger.py:121 - 
+======================================================================
+2025-12-16 21:47:51 - main - INFO - logger.py:121 - Top 5 Companies:
+2025-12-16 21:47:51 - main - INFO - logger.py:121 - ======================================================================
+2025-12-16 21:47:51 - main - INFO - logger.py:121 - 
+1. williamhaw
+2025-12-16 21:47:51 - main - INFO - logger.py:121 -    Domain: news.ycombinator.com
+2025-12-16 21:47:51 - main - INFO - logger.py:121 -    Source: manual
+2025-12-16 21:47:51 - main - INFO - logger.py:121 -    Score: 27.5 (LOW)
+2025-12-16 21:47:51 - main - INFO - logger.py:121 -    Technologies: Cloudflare, Google Cloud
+2025-12-16 21:47:51 - main - INFO - logger.py:121 - 
+======================================================================
+2025-12-16 21:47:51 - main - INFO - logger.py:121 - Pipeline execution completed successfully!
+2025-12-16 21:47:51 - main - INFO - logger.py:121 - ======================================================================

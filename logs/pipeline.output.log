@@ -1,0 +1,3 @@
+2025-12-16 21:47:51 - pipeline.output - INFO - logger.py:121 - Initialized DataExporter (output_dir=output)
+2025-12-16 21:47:51 - pipeline.output - INFO - logger.py:121 - Exporting 1 companies to Excel: output\generic_run_SUCCESS.xlsx
+2025-12-16 21:47:51 - pipeline.output - INFO - logger.py:121 - Excel export completed: output\generic_run_SUCCESS.xlsx

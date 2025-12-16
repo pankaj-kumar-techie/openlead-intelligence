@@ -5,3 +5,7 @@
 2025-12-16 19:26:08 - enrichment.tech_stack - INFO - logger.py:121 - Initialized TechStackDetector
 2025-12-16 19:27:39 - enrichment.tech_stack - INFO - logger.py:121 - Initialized TechStackDetector
 2025-12-16 19:28:33 - enrichment.tech_stack - INFO - logger.py:121 - Initialized TechStackDetector
+2025-12-16 21:44:03 - enrichment.tech_stack - INFO - logger.py:121 - Initialized TechStackDetector
+2025-12-16 21:47:45 - enrichment.tech_stack - INFO - logger.py:121 - Initialized TechStackDetector
+2025-12-16 21:47:49 - enrichment.tech_stack - INFO - logger.py:121 - Detecting tech stack for: https://news.ycombinator.com/user?id=williamhaw
+2025-12-16 21:47:51 - enrichment.tech_stack - INFO - logger.py:121 - Detected 2 technologies for williamhaw

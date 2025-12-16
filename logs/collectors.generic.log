@@ -1,0 +1,8 @@
+2025-12-16 21:44:03 - collectors.generic - INFO - logger.py:121 - Generic scraping starting for: https://news.ycombinator.com/show
+2025-12-16 21:44:07 - collectors.generic - INFO - logger.py:121 - Found 0 potential leads using Header strategy
+2025-12-16 21:44:07 - collectors.generic - INFO - logger.py:121 - Generic scrape finished. Scraped 0 items.
+2025-12-16 21:47:45 - collectors.generic - INFO - logger.py:121 - Generic scraping starting for: https://news.ycombinator.com/show
+2025-12-16 21:47:49 - collectors.generic - INFO - logger.py:121 - Found 0 potential leads using Header strategy
+2025-12-16 21:47:49 - collectors.generic - INFO - logger.py:121 - Strategies 1-2 failed. Trying Table Rows...
+2025-12-16 21:47:49 - collectors.generic - INFO - logger.py:121 - Total candidates found: 15
+2025-12-16 21:47:49 - collectors.generic - INFO - logger.py:121 - Generic scrape finished. Scraped 15 items.
