@@ -1,0 +1,102 @@
+2025-12-16 19:19:27 - main - INFO - logger.py:121 - ======================================================================
+2025-12-16 19:19:27 - main - INFO - logger.py:121 - OpenLead Intelligence - B2B Lead Intelligence Framework
+2025-12-16 19:19:27 - main - INFO - logger.py:121 - ======================================================================
+2025-12-16 19:19:27 - main - INFO - logger.py:121 - Sources: ['product_hunt']
+2025-12-16 19:19:27 - main - INFO - logger.py:121 - Max companies per source: 20
+2025-12-16 19:19:27 - main - INFO - logger.py:121 - Enrichment: True
+2025-12-16 19:19:27 - main - INFO - logger.py:121 - Scoring: True
+2025-12-16 19:19:27 - main - INFO - logger.py:121 - Output format: csv
+2025-12-16 19:19:27 - main - INFO - logger.py:121 - ======================================================================
+2025-12-16 19:19:27 - main - INFO - logger.py:121 - Initializing Product Hunt scraper
+2025-12-16 19:19:27 - main - INFO - logger.py:121 - Initializing enrichers
+2025-12-16 19:19:27 - main - INFO - logger.py:121 - Initializing lead scorer
+2025-12-16 19:19:31 - main - WARNING - logger.py:125 - No companies found. Exiting.
+2025-12-16 19:20:11 - main - INFO - logger.py:121 - ======================================================================
+2025-12-16 19:20:11 - main - INFO - logger.py:121 - OpenLead Intelligence - B2B Lead Intelligence Framework
+2025-12-16 19:20:11 - main - INFO - logger.py:121 - ======================================================================
+2025-12-16 19:20:11 - main - INFO - logger.py:121 - Sources: ['product_hunt', 'clutch']
+2025-12-16 19:20:11 - main - INFO - logger.py:121 - Max companies per source: 10
+2025-12-16 19:20:11 - main - INFO - logger.py:121 - Enrichment: True
+2025-12-16 19:20:11 - main - INFO - logger.py:121 - Scoring: True
+2025-12-16 19:20:11 - main - INFO - logger.py:121 - Output format: excel
+2025-12-16 19:20:11 - main - INFO - logger.py:121 - ======================================================================
+2025-12-16 19:20:11 - main - INFO - logger.py:121 - Initializing Product Hunt scraper
+2025-12-16 19:20:11 - main - INFO - logger.py:121 - Initializing Clutch scraper
+2025-12-16 19:20:11 - main - INFO - logger.py:121 - Initializing enrichers
+2025-12-16 19:20:11 - main - INFO - logger.py:121 - Initializing lead scorer
+2025-12-16 19:20:15 - main - WARNING - logger.py:125 - No companies found. Exiting.
+2025-12-16 19:22:43 - main - INFO - logger.py:121 - ======================================================================
+2025-12-16 19:22:43 - main - INFO - logger.py:121 - OpenLead Intelligence - B2B Lead Intelligence Framework
+2025-12-16 19:22:43 - main - INFO - logger.py:121 - ======================================================================
+2025-12-16 19:22:43 - main - INFO - logger.py:121 - Sources: ['product_hunt']
+2025-12-16 19:22:43 - main - INFO - logger.py:121 - Max companies per source: 5
+2025-12-16 19:22:43 - main - INFO - logger.py:121 - Enrichment: True
+2025-12-16 19:22:43 - main - INFO - logger.py:121 - Scoring: True
+2025-12-16 19:22:43 - main - INFO - logger.py:121 - Output format: csv
+2025-12-16 19:22:43 - main - INFO - logger.py:121 - ======================================================================
+2025-12-16 19:22:43 - main - INFO - logger.py:121 - Initializing Product Hunt scraper
+2025-12-16 19:22:43 - main - INFO - logger.py:121 - Initializing enrichers
+2025-12-16 19:22:43 - main - INFO - logger.py:121 - Initializing lead scorer
+2025-12-16 19:22:48 - main - WARNING - logger.py:125 - No companies found. Exiting.
+2025-12-16 19:23:09 - main - INFO - logger.py:121 - ======================================================================
+2025-12-16 19:23:09 - main - INFO - logger.py:121 - OpenLead Intelligence - B2B Lead Intelligence Framework
+2025-12-16 19:23:09 - main - INFO - logger.py:121 - ======================================================================
+2025-12-16 19:23:09 - main - INFO - logger.py:121 - Sources: ['clutch']
+2025-12-16 19:23:09 - main - INFO - logger.py:121 - Max companies per source: 5
+2025-12-16 19:23:09 - main - INFO - logger.py:121 - Enrichment: True
+2025-12-16 19:23:09 - main - INFO - logger.py:121 - Scoring: True
+2025-12-16 19:23:09 - main - INFO - logger.py:121 - Output format: csv
+2025-12-16 19:23:09 - main - INFO - logger.py:121 - ======================================================================
+2025-12-16 19:23:09 - main - INFO - logger.py:121 - Initializing Clutch scraper
+2025-12-16 19:23:09 - main - INFO - logger.py:121 - Initializing enrichers
+2025-12-16 19:23:09 - main - INFO - logger.py:121 - Initializing lead scorer
+2025-12-16 19:23:10 - main - WARNING - logger.py:125 - No companies found. Exiting.
+2025-12-16 19:25:31 - main - INFO - logger.py:121 - ======================================================================
+2025-12-16 19:25:31 - main - INFO - logger.py:121 - OpenLead Intelligence - B2B Lead Intelligence Framework
+2025-12-16 19:25:31 - main - INFO - logger.py:121 - ======================================================================
+2025-12-16 19:25:31 - main - INFO - logger.py:121 - Sources: ['product_hunt']
+2025-12-16 19:25:31 - main - INFO - logger.py:121 - Max companies per source: 10
+2025-12-16 19:25:31 - main - INFO - logger.py:121 - Enrichment: True
+2025-12-16 19:25:31 - main - INFO - logger.py:121 - Scoring: True
+2025-12-16 19:25:31 - main - INFO - logger.py:121 - Output format: csv
+2025-12-16 19:25:31 - main - INFO - logger.py:121 - ======================================================================
+2025-12-16 19:25:31 - main - INFO - logger.py:121 - Initializing Hacker News Scraper (Reliable Demo Source)
+2025-12-16 19:26:08 - main - INFO - logger.py:121 - ======================================================================
+2025-12-16 19:26:08 - main - INFO - logger.py:121 - OpenLead Intelligence - B2B Lead Intelligence Framework
+2025-12-16 19:26:08 - main - INFO - logger.py:121 - ======================================================================
+2025-12-16 19:26:08 - main - INFO - logger.py:121 - Sources: ['product_hunt']
+2025-12-16 19:26:08 - main - INFO - logger.py:121 - Max companies per source: 10
+2025-12-16 19:26:08 - main - INFO - logger.py:121 - Enrichment: True
+2025-12-16 19:26:08 - main - INFO - logger.py:121 - Scoring: True
+2025-12-16 19:26:08 - main - INFO - logger.py:121 - Output format: csv
+2025-12-16 19:26:08 - main - INFO - logger.py:121 - ======================================================================
+2025-12-16 19:26:08 - main - INFO - logger.py:121 - Initializing Hacker News Scraper (Reliable Demo Source)
+2025-12-16 19:26:08 - main - INFO - logger.py:121 - Initializing enrichers
+2025-12-16 19:26:08 - main - INFO - logger.py:121 - Initializing lead scorer
+2025-12-16 19:26:12 - main - WARNING - logger.py:125 - No companies found. Exiting.
+2025-12-16 19:27:39 - main - INFO - logger.py:121 - ======================================================================
+2025-12-16 19:27:39 - main - INFO - logger.py:121 - OpenLead Intelligence - B2B Lead Intelligence Framework
+2025-12-16 19:27:39 - main - INFO - logger.py:121 - ======================================================================
+2025-12-16 19:27:39 - main - INFO - logger.py:121 - Sources: ['product_hunt']
+2025-12-16 19:27:39 - main - INFO - logger.py:121 - Max companies per source: 100
+2025-12-16 19:27:39 - main - INFO - logger.py:121 - Enrichment: True
+2025-12-16 19:27:39 - main - INFO - logger.py:121 - Scoring: True
+2025-12-16 19:27:39 - main - INFO - logger.py:121 - Output format: excel
+2025-12-16 19:27:39 - main - INFO - logger.py:121 - ======================================================================
+2025-12-16 19:27:39 - main - INFO - logger.py:121 - Initializing Hacker News Scraper (Reliable Demo Source)
+2025-12-16 19:27:39 - main - INFO - logger.py:121 - Initializing enrichers
+2025-12-16 19:27:39 - main - INFO - logger.py:121 - Initializing lead scorer
+2025-12-16 19:28:04 - main - WARNING - logger.py:125 - No companies found. Exiting.
+2025-12-16 19:28:33 - main - INFO - logger.py:121 - ======================================================================
+2025-12-16 19:28:33 - main - INFO - logger.py:121 - OpenLead Intelligence - B2B Lead Intelligence Framework
+2025-12-16 19:28:33 - main - INFO - logger.py:121 - ======================================================================
+2025-12-16 19:28:33 - main - INFO - logger.py:121 - Sources: ['product_hunt']
+2025-12-16 19:28:33 - main - INFO - logger.py:121 - Max companies per source: 100
+2025-12-16 19:28:33 - main - INFO - logger.py:121 - Enrichment: True
+2025-12-16 19:28:33 - main - INFO - logger.py:121 - Scoring: True
+2025-12-16 19:28:33 - main - INFO - logger.py:121 - Output format: excel
+2025-12-16 19:28:33 - main - INFO - logger.py:121 - ======================================================================
+2025-12-16 19:28:33 - main - INFO - logger.py:121 - Initializing Hacker News Scraper (Reliable Demo Source)
+2025-12-16 19:28:33 - main - INFO - logger.py:121 - Initializing enrichers
+2025-12-16 19:28:33 - main - INFO - logger.py:121 - Initializing lead scorer
+2025-12-16 19:28:59 - main - WARNING - logger.py:125 - No companies found. Exiting.

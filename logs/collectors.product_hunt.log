@@ -1,0 +1,27 @@
+2025-12-16 19:19:27 - collectors.product_hunt - INFO - logger.py:121 - Starting Product Hunt scrape (days_back=7, max=20)
+2025-12-16 19:19:27 - collectors.product_hunt - INFO - logger.py:121 - Scraping Product Hunt for date: 2025/12/16
+2025-12-16 19:19:28 - collectors.product_hunt - INFO - logger.py:121 - Scraping Product Hunt for date: 2025/12/15
+2025-12-16 19:19:28 - collectors.product_hunt - INFO - logger.py:121 - Scraping Product Hunt for date: 2025/12/14
+2025-12-16 19:19:29 - collectors.product_hunt - INFO - logger.py:121 - Scraping Product Hunt for date: 2025/12/13
+2025-12-16 19:19:29 - collectors.product_hunt - INFO - logger.py:121 - Scraping Product Hunt for date: 2025/12/12
+2025-12-16 19:19:30 - collectors.product_hunt - INFO - logger.py:121 - Scraping Product Hunt for date: 2025/12/11
+2025-12-16 19:19:30 - collectors.product_hunt - INFO - logger.py:121 - Scraping Product Hunt for date: 2025/12/10
+2025-12-16 19:19:31 - collectors.product_hunt - INFO - logger.py:121 - Product Hunt scrape completed: 0 companies in 3.91s
+2025-12-16 19:20:11 - collectors.product_hunt - INFO - logger.py:121 - Starting Product Hunt scrape (days_back=7, max=10)
+2025-12-16 19:20:11 - collectors.product_hunt - INFO - logger.py:121 - Scraping Product Hunt for date: 2025/12/16
+2025-12-16 19:20:12 - collectors.product_hunt - INFO - logger.py:121 - Scraping Product Hunt for date: 2025/12/15
+2025-12-16 19:20:12 - collectors.product_hunt - INFO - logger.py:121 - Scraping Product Hunt for date: 2025/12/14
+2025-12-16 19:20:13 - collectors.product_hunt - INFO - logger.py:121 - Scraping Product Hunt for date: 2025/12/13
+2025-12-16 19:20:13 - collectors.product_hunt - INFO - logger.py:121 - Scraping Product Hunt for date: 2025/12/12
+2025-12-16 19:20:14 - collectors.product_hunt - INFO - logger.py:121 - Scraping Product Hunt for date: 2025/12/11
+2025-12-16 19:20:14 - collectors.product_hunt - INFO - logger.py:121 - Scraping Product Hunt for date: 2025/12/10
+2025-12-16 19:20:15 - collectors.product_hunt - INFO - logger.py:121 - Product Hunt scrape completed: 0 companies in 3.67s
+2025-12-16 19:22:43 - collectors.product_hunt - INFO - logger.py:121 - Starting Product Hunt scrape (days_back=7, max=5)
+2025-12-16 19:22:43 - collectors.product_hunt - INFO - logger.py:121 - Scraping Product Hunt for date: 2025/12/16
+2025-12-16 19:22:45 - collectors.product_hunt - INFO - logger.py:121 - Scraping Product Hunt for date: 2025/12/15
+2025-12-16 19:22:46 - collectors.product_hunt - INFO - logger.py:121 - Scraping Product Hunt for date: 2025/12/14
+2025-12-16 19:22:46 - collectors.product_hunt - INFO - logger.py:121 - Scraping Product Hunt for date: 2025/12/13
+2025-12-16 19:22:47 - collectors.product_hunt - INFO - logger.py:121 - Scraping Product Hunt for date: 2025/12/12
+2025-12-16 19:22:47 - collectors.product_hunt - INFO - logger.py:121 - Scraping Product Hunt for date: 2025/12/11
+2025-12-16 19:22:48 - collectors.product_hunt - INFO - logger.py:121 - Scraping Product Hunt for date: 2025/12/10
+2025-12-16 19:22:48 - collectors.product_hunt - INFO - logger.py:121 - Product Hunt scrape completed: 0 companies in 4.50s

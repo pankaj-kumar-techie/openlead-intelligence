@@ -1,0 +1,21 @@
+2025-12-16 19:26:08 - collectors.job_boards - INFO - logger.py:121 - Scraping Hacker News: https://news.ycombinator.com/show
+2025-12-16 19:26:12 - collectors.job_boards - ERROR - logger.py:137 - Error scraping HN: 'HackerNewsScraper' object has no attribute '_parse_item'
+Traceback (most recent call last):
+  File [35m"C:\Users\panka\PyCharmMiscProject\openlead-intelligence\collectors\job_boards.py"[0m, line [35m58[0m, in [35mscrape[0m
+    company = [1;31mself._parse_item[0m(item)
+              [1;31m^^^^^^^^^^^^^^^^[0m
+[1;35mAttributeError[0m: [35m'HackerNewsScraper' object has no attribute '_parse_item'[0m
+2025-12-16 19:27:39 - collectors.job_boards - INFO - logger.py:121 - Scraping Hacker News: https://news.ycombinator.com/show
+2025-12-16 19:28:04 - collectors.job_boards - ERROR - logger.py:137 - Error scraping HN: 'HackerNewsScraper' object has no attribute '_parse_item'
+Traceback (most recent call last):
+  File [35m"C:\Users\panka\PyCharmMiscProject\openlead-intelligence\collectors\job_boards.py"[0m, line [35m58[0m, in [35mscrape[0m
+    company = [1;31mself._parse_item[0m(item)
+              [1;31m^^^^^^^^^^^^^^^^[0m
+[1;35mAttributeError[0m: [35m'HackerNewsScraper' object has no attribute '_parse_item'[0m
+2025-12-16 19:28:33 - collectors.job_boards - INFO - logger.py:121 - Scraping Hacker News: https://news.ycombinator.com/show
+2025-12-16 19:28:59 - collectors.job_boards - ERROR - logger.py:137 - Error scraping HN: 'HackerNewsScraper' object has no attribute '_parse_item'
+Traceback (most recent call last):
+  File [35m"C:\Users\panka\PyCharmMiscProject\openlead-intelligence\collectors\job_boards.py"[0m, line [35m58[0m, in [35mscrape[0m
+    company = [1;31mself._parse_item[0m(item)
+              [1;31m^^^^^^^^^^^^^^^^[0m
+[1;35mAttributeError[0m: [35m'HackerNewsScraper' object has no attribute '_parse_item'[0m

@@ -1,0 +1,57 @@
+2025-12-16 19:19:27 - pipeline.orchestrator - INFO - logger.py:121 - Initialized PipelineOrchestrator (enrichment=True, scoring=True, dedup=True)
+2025-12-16 19:19:27 - pipeline.orchestrator - INFO - logger.py:121 - ============================================================
+2025-12-16 19:19:27 - pipeline.orchestrator - INFO - logger.py:121 - Starting Pipeline Execution
+2025-12-16 19:19:27 - pipeline.orchestrator - INFO - logger.py:121 - ============================================================
+2025-12-16 19:19:27 - pipeline.orchestrator - INFO - logger.py:121 - Step 1: Scraping from 1 sources
+2025-12-16 19:19:31 - pipeline.orchestrator - INFO - logger.py:121 - ProductHuntScraper: 0 companies in 3.91s
+2025-12-16 19:19:31 - pipeline.orchestrator - INFO - logger.py:121 - Scraped 0 total companies
+2025-12-16 19:19:31 - pipeline.orchestrator - WARNING - logger.py:125 - No companies scraped. Exiting pipeline.
+2025-12-16 19:20:11 - pipeline.orchestrator - INFO - logger.py:121 - Initialized PipelineOrchestrator (enrichment=True, scoring=True, dedup=True)
+2025-12-16 19:20:11 - pipeline.orchestrator - INFO - logger.py:121 - ============================================================
+2025-12-16 19:20:11 - pipeline.orchestrator - INFO - logger.py:121 - Starting Pipeline Execution
+2025-12-16 19:20:11 - pipeline.orchestrator - INFO - logger.py:121 - ============================================================
+2025-12-16 19:20:11 - pipeline.orchestrator - INFO - logger.py:121 - Step 1: Scraping from 2 sources
+2025-12-16 19:20:12 - pipeline.orchestrator - ERROR - logger.py:129 - ClutchScraper failed: ['Failed to fetch page 1']
+2025-12-16 19:20:15 - pipeline.orchestrator - INFO - logger.py:121 - ProductHuntScraper: 0 companies in 3.67s
+2025-12-16 19:20:15 - pipeline.orchestrator - INFO - logger.py:121 - Scraped 0 total companies
+2025-12-16 19:20:15 - pipeline.orchestrator - WARNING - logger.py:125 - No companies scraped. Exiting pipeline.
+2025-12-16 19:22:43 - pipeline.orchestrator - INFO - logger.py:121 - Initialized PipelineOrchestrator (enrichment=True, scoring=True, dedup=True)
+2025-12-16 19:22:43 - pipeline.orchestrator - INFO - logger.py:121 - ============================================================
+2025-12-16 19:22:43 - pipeline.orchestrator - INFO - logger.py:121 - Starting Pipeline Execution
+2025-12-16 19:22:43 - pipeline.orchestrator - INFO - logger.py:121 - ============================================================
+2025-12-16 19:22:43 - pipeline.orchestrator - INFO - logger.py:121 - Step 1: Scraping from 1 sources
+2025-12-16 19:22:48 - pipeline.orchestrator - INFO - logger.py:121 - ProductHuntScraper: 0 companies in 4.50s
+2025-12-16 19:22:48 - pipeline.orchestrator - INFO - logger.py:121 - Scraped 0 total companies
+2025-12-16 19:22:48 - pipeline.orchestrator - WARNING - logger.py:125 - No companies scraped. Exiting pipeline.
+2025-12-16 19:23:09 - pipeline.orchestrator - INFO - logger.py:121 - Initialized PipelineOrchestrator (enrichment=True, scoring=True, dedup=True)
+2025-12-16 19:23:09 - pipeline.orchestrator - INFO - logger.py:121 - ============================================================
+2025-12-16 19:23:09 - pipeline.orchestrator - INFO - logger.py:121 - Starting Pipeline Execution
+2025-12-16 19:23:09 - pipeline.orchestrator - INFO - logger.py:121 - ============================================================
+2025-12-16 19:23:09 - pipeline.orchestrator - INFO - logger.py:121 - Step 1: Scraping from 1 sources
+2025-12-16 19:23:10 - pipeline.orchestrator - ERROR - logger.py:129 - ClutchScraper failed: ['Failed to fetch page 1']
+2025-12-16 19:23:10 - pipeline.orchestrator - INFO - logger.py:121 - Scraped 0 total companies
+2025-12-16 19:23:10 - pipeline.orchestrator - WARNING - logger.py:125 - No companies scraped. Exiting pipeline.
+2025-12-16 19:26:08 - pipeline.orchestrator - INFO - logger.py:121 - Initialized PipelineOrchestrator (enrichment=True, scoring=True, dedup=True)
+2025-12-16 19:26:08 - pipeline.orchestrator - INFO - logger.py:121 - ============================================================
+2025-12-16 19:26:08 - pipeline.orchestrator - INFO - logger.py:121 - Starting Pipeline Execution
+2025-12-16 19:26:08 - pipeline.orchestrator - INFO - logger.py:121 - ============================================================
+2025-12-16 19:26:08 - pipeline.orchestrator - INFO - logger.py:121 - Step 1: Scraping from 1 sources
+2025-12-16 19:26:12 - pipeline.orchestrator - ERROR - logger.py:129 - HackerNewsScraper failed: ["'HackerNewsScraper' object has no attribute '_parse_item'"]
+2025-12-16 19:26:12 - pipeline.orchestrator - INFO - logger.py:121 - Scraped 0 total companies
+2025-12-16 19:26:12 - pipeline.orchestrator - WARNING - logger.py:125 - No companies scraped. Exiting pipeline.
+2025-12-16 19:27:39 - pipeline.orchestrator - INFO - logger.py:121 - Initialized PipelineOrchestrator (enrichment=True, scoring=True, dedup=True)
+2025-12-16 19:27:39 - pipeline.orchestrator - INFO - logger.py:121 - ============================================================
+2025-12-16 19:27:39 - pipeline.orchestrator - INFO - logger.py:121 - Starting Pipeline Execution
+2025-12-16 19:27:39 - pipeline.orchestrator - INFO - logger.py:121 - ============================================================
+2025-12-16 19:27:39 - pipeline.orchestrator - INFO - logger.py:121 - Step 1: Scraping from 1 sources
+2025-12-16 19:28:04 - pipeline.orchestrator - ERROR - logger.py:129 - HackerNewsScraper failed: ["'HackerNewsScraper' object has no attribute '_parse_item'"]
+2025-12-16 19:28:04 - pipeline.orchestrator - INFO - logger.py:121 - Scraped 0 total companies
+2025-12-16 19:28:04 - pipeline.orchestrator - WARNING - logger.py:125 - No companies scraped. Exiting pipeline.
+2025-12-16 19:28:33 - pipeline.orchestrator - INFO - logger.py:121 - Initialized PipelineOrchestrator (enrichment=True, scoring=True, dedup=True)
+2025-12-16 19:28:33 - pipeline.orchestrator - INFO - logger.py:121 - ============================================================
+2025-12-16 19:28:33 - pipeline.orchestrator - INFO - logger.py:121 - Starting Pipeline Execution
+2025-12-16 19:28:33 - pipeline.orchestrator - INFO - logger.py:121 - ============================================================
+2025-12-16 19:28:33 - pipeline.orchestrator - INFO - logger.py:121 - Step 1: Scraping from 1 sources
+2025-12-16 19:28:59 - pipeline.orchestrator - ERROR - logger.py:129 - HackerNewsScraper failed: ["'HackerNewsScraper' object has no attribute '_parse_item'"]
+2025-12-16 19:28:59 - pipeline.orchestrator - INFO - logger.py:121 - Scraped 0 total companies
+2025-12-16 19:28:59 - pipeline.orchestrator - WARNING - logger.py:125 - No companies scraped. Exiting pipeline.

@@ -1,0 +1,31 @@
+2025-12-16 19:19:27 - collectors.base_scraper - INFO - logger.py:121 - Initialized ProductHuntScraper scraper
+2025-12-16 19:19:28 - collectors.base_scraper - WARNING - logger.py:125 - URL blocked by robots.txt: https://www.producthunt.com/posts/2025/12/16
+2025-12-16 19:19:28 - collectors.base_scraper - WARNING - logger.py:125 - URL blocked by robots.txt: https://www.producthunt.com/posts/2025/12/15
+2025-12-16 19:19:29 - collectors.base_scraper - WARNING - logger.py:125 - URL blocked by robots.txt: https://www.producthunt.com/posts/2025/12/14
+2025-12-16 19:19:29 - collectors.base_scraper - WARNING - logger.py:125 - URL blocked by robots.txt: https://www.producthunt.com/posts/2025/12/13
+2025-12-16 19:19:30 - collectors.base_scraper - WARNING - logger.py:125 - URL blocked by robots.txt: https://www.producthunt.com/posts/2025/12/12
+2025-12-16 19:19:30 - collectors.base_scraper - WARNING - logger.py:125 - URL blocked by robots.txt: https://www.producthunt.com/posts/2025/12/11
+2025-12-16 19:19:31 - collectors.base_scraper - WARNING - logger.py:125 - URL blocked by robots.txt: https://www.producthunt.com/posts/2025/12/10
+2025-12-16 19:20:11 - collectors.base_scraper - INFO - logger.py:121 - Initialized ProductHuntScraper scraper
+2025-12-16 19:20:11 - collectors.base_scraper - INFO - logger.py:121 - Initialized ClutchScraper scraper
+2025-12-16 19:20:12 - collectors.base_scraper - WARNING - logger.py:125 - URL blocked by robots.txt: https://www.producthunt.com/posts/2025/12/16
+2025-12-16 19:20:12 - collectors.base_scraper - WARNING - logger.py:125 - URL blocked by robots.txt: https://clutch.co/web-developers?page=1
+2025-12-16 19:20:12 - collectors.base_scraper - WARNING - logger.py:125 - URL blocked by robots.txt: https://www.producthunt.com/posts/2025/12/15
+2025-12-16 19:20:13 - collectors.base_scraper - WARNING - logger.py:125 - URL blocked by robots.txt: https://www.producthunt.com/posts/2025/12/14
+2025-12-16 19:20:13 - collectors.base_scraper - WARNING - logger.py:125 - URL blocked by robots.txt: https://www.producthunt.com/posts/2025/12/13
+2025-12-16 19:20:14 - collectors.base_scraper - WARNING - logger.py:125 - URL blocked by robots.txt: https://www.producthunt.com/posts/2025/12/12
+2025-12-16 19:20:14 - collectors.base_scraper - WARNING - logger.py:125 - URL blocked by robots.txt: https://www.producthunt.com/posts/2025/12/11
+2025-12-16 19:20:15 - collectors.base_scraper - WARNING - logger.py:125 - URL blocked by robots.txt: https://www.producthunt.com/posts/2025/12/10
+2025-12-16 19:22:43 - collectors.base_scraper - INFO - logger.py:121 - Initialized ProductHuntScraper scraper
+2025-12-16 19:22:45 - collectors.base_scraper - WARNING - logger.py:125 - URL blocked by robots.txt: https://www.producthunt.com/posts/2025/12/16
+2025-12-16 19:22:46 - collectors.base_scraper - WARNING - logger.py:125 - URL blocked by robots.txt: https://www.producthunt.com/posts/2025/12/15
+2025-12-16 19:22:46 - collectors.base_scraper - WARNING - logger.py:125 - URL blocked by robots.txt: https://www.producthunt.com/posts/2025/12/14
+2025-12-16 19:22:47 - collectors.base_scraper - WARNING - logger.py:125 - URL blocked by robots.txt: https://www.producthunt.com/posts/2025/12/13
+2025-12-16 19:22:47 - collectors.base_scraper - WARNING - logger.py:125 - URL blocked by robots.txt: https://www.producthunt.com/posts/2025/12/12
+2025-12-16 19:22:48 - collectors.base_scraper - WARNING - logger.py:125 - URL blocked by robots.txt: https://www.producthunt.com/posts/2025/12/11
+2025-12-16 19:22:48 - collectors.base_scraper - WARNING - logger.py:125 - URL blocked by robots.txt: https://www.producthunt.com/posts/2025/12/10
+2025-12-16 19:23:09 - collectors.base_scraper - INFO - logger.py:121 - Initialized ClutchScraper scraper
+2025-12-16 19:23:10 - collectors.base_scraper - WARNING - logger.py:125 - URL blocked by robots.txt: https://clutch.co/web-developers?page=1
+2025-12-16 19:26:08 - collectors.base_scraper - INFO - logger.py:121 - Initialized HackerNewsScraper scraper
+2025-12-16 19:27:39 - collectors.base_scraper - INFO - logger.py:121 - Initialized HackerNewsScraper scraper
+2025-12-16 19:28:33 - collectors.base_scraper - INFO - logger.py:121 - Initialized HackerNewsScraper scraper
